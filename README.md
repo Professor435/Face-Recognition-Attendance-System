@@ -22,8 +22,8 @@ Camera Controls - Start/stop camera feed
 Recognition Simulation - Realistic face scanning animation
 Toast Notifications - Success/error feedback
 Simply save this as an .html file and open it in any modern browser. All features work immediately without any backend required!
+
 for more contact(professorshami435@gmail.com)
 
-Recognition Simulation - Realistic face scanning animation
-Toast Notifications - Success/error feedback
-Simply save this as an .html file and open it in any modern browser. All features work immediately without any backend required!
+
+
