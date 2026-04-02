@@ -23,6 +23,8 @@ Recognition Simulation - Realistic face scanning animation
 Toast Notifications - Success/error feedback
 Simply save this as an .html file and open it in any modern browser. All features work immediately without any backend required!
 
+#FaceRecognition #ComputerVision #AttendanceSystem #OpenCV #Python #Biometrics #AI #MachineLearning #EducationTech #SchoolManagement #AutomatedAttendance #ImageProcessing #DeepLearning #FacialRecognition #Security #FullStack #Django #RealTime #OpenSource
+
 for more contact(professorshami435@gmail.com)
 
 
