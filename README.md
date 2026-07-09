@@ -3,7 +3,7 @@ Face Recognition Attendance System
 Features Included:
 🎯 Core Functionality
 Real-time Face Recognition - Camera integration with simulated AI recognition
-Employee Management - Add, view, delete employees with face registration
+Employee Management - Add, view, delete employees with face registration 
 Live Attendance Tracking - Check-in/Check-out with automatic timestamp
 Dashboard Analytics - Real-time statistics and activity feed
 🎨 Modern UI/UX
